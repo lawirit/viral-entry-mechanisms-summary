@@ -1,0 +1,1 @@
+# Resumen en Español\n\n*(Esta página está destinada a alojar la traducción al español del resumen del artículo de investigación.)*\n\nPor favor, traduzca el contenido de `original-paper.md` a español manteniendo la precisión científica y la claridad.
