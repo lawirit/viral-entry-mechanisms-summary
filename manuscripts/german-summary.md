@@ -1,0 +1,1 @@
+# Deutsche Zusammenfassung\n\n*(Diese Seite soll die deutsche Übersetzung der Forschungszusammenfassung enthalten.)*\n\nBitte übersetzen Sie den Inhalt von `original-paper.md` ins Deutsche unter Beibehaltung der wissenschaftlichen Genauigkeit und Klarheit.
